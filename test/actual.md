@@ -1,3 +1,3 @@
+# Panda AI
 
-
-![image-20250330194905299](./assets/image-20250330194905299.png)
+![image.png](assets/image.png)
